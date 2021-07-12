@@ -5,13 +5,13 @@ _Frontend (React) | Backend (NestJs) | Databases (SQL)_
 
 ## About Me 👩🏾‍🚀
 I'm from Medellín, Colombia, where the coffee is a morning routine ☕  
-I've been related with sotfware for more of 3 years now thanks to **WorldSkills** and **Platzi Master** that guide me in to become a better everyday.  
+I have been related to software for more than 3 years thanks to **WorldSkills** and **Platzi Master** who guide me to become a better day by day.
 
-Currently I'm a the represent of my state, Antioquia, in WorldSKills Competition in Web Technologies ability
+I'm currently the representative of my state, Antioquia, in the WorldSKills competition in the Web Technologies skill.
 
 ## Studies 📖
-I like to describe myself as a *NoSoftwareEngineer*, to express that I'm **Not Only A Software Engineer**, I'm always a looking for a new knowledge or experience that helps me to understand and enjoy more our world and life.  
-For that reason I have some studies like Multimedia Production and in a close future Physics and Astronomy will be part of my way to see life.
+I like to describe myself as a *NoSoftwareEngineer*, to express that I'm **Not Only A Software Engineer**, I'm always a looking for new knowledge or experience that helps me to understand and enjoy more our world and life in this universe.  
+That is why I have some studies such as Multimedia Production and in the near future Physics and Astronomy will be part of my way of seeing life.
 
 
 ## Do you want to know more? 🪐
