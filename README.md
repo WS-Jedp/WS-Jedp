@@ -17,6 +17,7 @@ That is why I have some studies such as Multimedia Production and in the near fu
 
 ## My Stack  
 I'm focused in Web Development, that is why my main stack of technologies are:  
+ 
 👉🏾 **Languages**  
 [![TypeScript Badge](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&labelColor=101917&logo=typescript&logoColor=blue)](https://www.typescriptlang.org/)
 [![Node Badge](https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&labelColor=101917&logo=node.js&logoColor=green)](https://nodejs.org/)
